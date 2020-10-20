@@ -1,6 +1,8 @@
-Uma aplicação voltada a estudo e aprender sobre o funcionamento da ferramenta GRAPHQL.
-## :ghost: O que é GRAPHQL?
-GraphQL é uma linguagem de consulta e ambiente de execução voltada a servidores para as interfaces de programação de aplicações (APIs) cuja prioridade é fornecer exatamente os dados que os clientes solicitam e nada além. 
+An application aimed at studying and learning about the operation of the GRAPHQL tool.
+
+## :ghost: What is GRAPHQL?
+
+GraphQL is a query language and execution environment focused on servers for application programming interfaces (APIs) whose priority is to provide exactly the data that customers request and nothing else.
 
 ##  :rocket: Tecnologias
 - [Node.js](https://nodejs.org/en/)
@@ -10,14 +12,15 @@ GraphQL é uma linguagem de consulta e ambiente de execução voltada a servidor
 - [graphql](https://graphql.org/)
 - [apollo-boost](https://www.apollographql.com/docs/react/get-started/)
 
-## :star: Instalação
-#### Para iniciar o backend da aplicação utilize os comandos:
+## :star: Installation
+#### To start the application backend use the commands:
 ```
   cd backend
   yarn install
   yarn dev
 ```
-#### Para iniciar o frontend da aplicação utilize os comandos:
+#### To start the application frontend, use the commands:
+
 ```
   cd frontend
   yarn install
